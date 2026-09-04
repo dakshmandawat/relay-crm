@@ -6,7 +6,7 @@ Relay CRM is a high-velocity sales management platform built to prevent pipeline
 
 ## Live Links & Resources
 
-* **Interactive Live Application:** [https://relay-crm-lead-scori-vrls.bolt.host](https://relay-crm-lead-scori-vrls.bolt.host)
+* **Interactive Live Application:** [https://crm-lead-scoring-bac-n39b.bolt.host](https://crm-lead-scoring-bac-n39b.bolt.host)
 * **Product Brochure (PDF):** [View Brochure on Google Drive](https://drive.google.com/file/d/1aIAt1iHEHNt1jjRkxHBJv5rjlUKDd6eS/view?usp=sharing)
 * **Demo Access:** Open sandbox mode (no credentials required)
 
